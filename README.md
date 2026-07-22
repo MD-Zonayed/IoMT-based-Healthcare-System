@@ -496,14 +496,6 @@ If you use this repository in your research, please cite:
 
 ---
 
-# 📄 License
-
-This project is released under the **MIT License**.
-
-See the `LICENSE` file for complete licensing information.
-
----
-
 # 🤝 Acknowledgements
 
 The authors would like to thank:
