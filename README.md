@@ -1,7 +1,7 @@
 # 🏥 IoMT-Based Wearable Healthcare Monitoring and Viral Infection Prediction Using Ensemble Machine Learning
 
 <p align="center">
-  <img src="images/banner.png" alt="Healthcare IoMT Banner" width="900"/>
+  <img width="400" height="300" alt="Healthcare" src="https://github.com/user-attachments/assets/24338e2f-3210-4ac4-aec0-13496a5ee74d" />
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ The primary objectives of this research are:
 
 <p align="center">
 
-<img src="images/system_block_diagram.png" width="900"/>
+<img width="500" height="500" alt="Architecture of IoMT" src="https://github.com/user-attachments/assets/72003a1e-1fff-4e53-95a0-8d19835958e5" />
 
 </p>
 
@@ -93,7 +93,7 @@ The proposed healthcare system consists of five interconnected layers:
 - Machine Learning Layer
 - User Interface Layer
 
-Physiological data collected by wearable sensors are transmitted to the Raspberry Pi gateway, processed through IoMT infrastructure, analyzed using machine learning models, and presented to healthcare professionals through a graphical user interface. :contentReference[oaicite:2]{index=2}
+Physiological data collected by wearable sensors is transmitted to the Raspberry Pi gateway, processed through IoMT infrastructure, analyzed using machine learning models, and presented to healthcare professionals through a graphical user interface.
 
 ---
 
@@ -200,25 +200,9 @@ These physiological indicators are commonly associated with viral infections and
 
 # 🌐 Internet of Medical Things (IoMT)
 
-## IoMT Architecture
-
-<p align="center">
-
-<img src="images/iomt_architecture.png" width="900"/>
-
-</p>
-
 The proposed Internet of Medical Things (IoMT) framework enables secure acquisition, transmission, storage, and intelligent analysis of healthcare data to enable continuous patient monitoring and intelligent healthcare management.
 
-The layered architecture consists of:
-
-- Sensor Layer
-- Gateway Layer
-- Cloud Layer
-- Machine Learning Layer
-- User Interface Layer
-
-This architecture supports efficient data collection, preprocessing, cloud communication, predictive analytics, and real-time healthcare visualization. :contentReference[oaicite:3]{index=3}
+This architecture supports efficient data collection, preprocessing, cloud communication, predictive analytics, and real-time healthcare visualization.
 
 ## IoMT Workflow
 
@@ -262,7 +246,7 @@ Healthcare Dashboard
 # ⚕️ Wearable Healthcare Design
 
 <p align="center">
-<img src="images/wearable_design.png" width="750"/>
+<img width="670" height="450" alt="design" src="https://github.com/user-attachments/assets/da5a3524-dda1-4abd-9856-e6becb0be9ed" />
 </p>
 
 The wearable device integrates multiple biomedical sensors into a compact healthcare monitoring platform capable of continuously collecting physiological signals.
